@@ -1,0 +1,21 @@
+{
+  "version": 8,
+  "sources": {
+    "hills": {
+      "type": "raster",
+      "tiles": [
+        "https://api.maptiler.com/tiles/uk-osgb63k1885/{z}/{x}/{y}?key=YYI7S64Om4Ruc9XZ6oYc"
+      ],
+      "tileSize": 256,
+      "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland / &copy; Ordnance Survey</a>",
+      "maxzoom": 17
+    }
+  },
+  "layers": [
+    {
+      "id": "hills",
+      "type": "raster",
+      "source": "hills"
+    }
+  ]
+}
