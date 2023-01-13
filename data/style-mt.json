@@ -20,11 +20,11 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=Qi2gszp5uSG09U66VCvH"
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=YYI7S64Om4Ruc9XZ6oYc"
     }
   },
   "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=Qi2gszp5uSG09U66VCvH",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=YYI7S64Om4Ruc9XZ6oYc",
   "layers": [
     {
       "id": "background",
