@@ -8,7 +8,7 @@
       ],
       "tileSize": 256,
       "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland / &copy; Ordnance Survey</a>",
-      "maxzoom": 17
+      "maxzoom": 16
     }
   },
   "layers": [
